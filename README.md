@@ -12,3 +12,6 @@
 **Machine Learning Success Criteria:** Achieve at least 95% model accuracy with an inference timeof I second per frame.
 
 **Economic Success Criteria:** Achieve reduction in operational costs, including labor and inventory loss.
+
+
+Note: My origial dataset consisted of 217 images which i cannot upload directly github due to length of file, so i am uploading it to my drive and here is its link: https://drive.google.com/file/d/1cHx6z0SrabNGrAot_GIBWTmRtywCFs48/view?usp=sharing
